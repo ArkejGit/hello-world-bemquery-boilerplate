@@ -1,8 +1,8 @@
-# bemquery-package-boilerplate
+# hello-world-bemquery-boilerplate
 
-[![Build Status](https://travis-ci.org/BEMQuery/bemquery-package-boilerplate.svg?branch=master)](https://travis-ci.org/BEMQuery/bemquery-package-boilerplate) · [![Dependency Status](https://david-dm.org/BEMQuery/bemquery-package-boilerplate.svg)](https://david-dm.org/BEMQuery/bemquery-package-boilerplate) · [![devDependency Status](https://david-dm.org/BEMQuery/bemquery-package-boilerplate/dev-status.svg)](https://david-dm.org/BEMQuery/bemquery-package-boilerplate?type=dev) · [![Known Vulnerabilities](https://snyk.io/test/github/bemquery/bemquery-package-boilerplate/badge.svg)](https://snyk.io/test/github/bemquery/bemquery-package-boilerplate) · [![npm version](https://badge.fury.io/js/bemquery-package-boilerplate.svg)](https://badge.fury.io/js/bemquery-package-boilerplate) · [![Bower version](https://badge.fury.io/bo/bemquery-package-boilerplate.svg)](https://badge.fury.io/bo/bemquery-package-boilerplate) · [![codecov](https://codecov.io/gh/BEMQuery/bemquery-package-boilerplate/branch/master/graph/badge.svg)](https://codecov.io/gh/BEMQuery/bemquery-package-boilerplate)
+[![Build Status](https://travis-ci.org/ArkejGit/hello-world-bemquery-boilerplate.svg?branch=master)](https://travis-ci.org/ArkejGit/hello-world-bemquery-boilerplate) · [![Dependency Status](https://david-dm.org/ArkejGit/hello-world-bemquery-boilerplate.svg)](https://david-dm.org/ArkejGit/hello-world-bemquery-boilerplate) · [![devDependency Status](https://david-dm.org/ArkejGit/hello-world-bemquery-boilerplate/dev-status.svg)](https://david-dm.org/ArkejGit/hello-world-bemquery-boilerplate?type=dev) · [![Known Vulnerabilities](https://snyk.io/test/github/ArkejGit/hello-world-bemquery-boilerplate/badge.svg)](https://snyk.io/test/github/ArkejGit/hello-world-bemquery-boilerplate) · [![npm version](https://badge.fury.io/js/hello-world-bemquery-boilerplate.svg)](https://badge.fury.io/js/hello-world-bemquery-boilerplate) · [![Bower version](https://badge.fury.io/bo/hello-world-bemquery-boilerplate.svg)](https://badge.fury.io/bo/hello-world-bemquery-boilerplate) · [![codecov](https://codecov.io/gh/ArkejGit/hello-world-bemquery-boilerplate/branch/master/graph/badge.svg)](https://codecov.io/gh/ArkejGit/hello-world-bemquery-boilerplate)
 
-Simple boilerplate
+Simple "Hello world!" module using [bemquery-package-boilerplate](https://github.com/BEMQuery/bemquery-package-boilerplate)
 
 ---
 
@@ -10,14 +10,14 @@ Simple boilerplate
 
 You can install this package from npm:
 ```bash
-npm install bemquery-package-boilerplate [--save]
+npm install hello-world-bemquery-boilerplate [--save]
 ```
 
 You can also install it from bower:
 ```bash
-bower install bemquery-package-boilerplate
+bower install hello-world-bemquery-boilerplate
 ```
 
 ## Documentation
 
-Docs are available at http://bemquery.github.io/bemquery-package-boilerplate
+Docs are available at http://arkejgit.github.io/hello-world-bemquery-boilerplate
